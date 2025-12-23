@@ -15,3 +15,8 @@ churn_by_contract = (
 print(churn_by_contract)
 
 
+"""
+Insight:
+Month-to-month contracts show significantly higher churn,
+suggesting an opportunity for long-term contract incentives.
+"""
