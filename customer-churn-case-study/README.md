@@ -1,4 +1,4 @@
-# Customer Churn Case Study
+# Customer Churn Rate Case Study
 
 ## BUSINESS PROBLEM
 Understand why customers churn and identify strategies to improve retention.
