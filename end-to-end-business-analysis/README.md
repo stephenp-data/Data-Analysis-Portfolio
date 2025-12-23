@@ -22,6 +22,7 @@ Due to file size, raw data is not stored in this repository.
 - A small percentage of products drive the majority of revenue
 
 ## RECOMMENDATIONS
-- Increase inventory and marketing spend ahead of peak seasons
-- Focus retention efforts on high-value customers
+- Increase inventory for key performers and marketing spend ahead of peak seasons.
+- Prioritize Q4 marketing budget on single-product ad groups revolving around best performing products for ease of scalability (and the option to pivot if necessary)
+- Focus retention efforts on high-value customers through retargeting campaigns
 
