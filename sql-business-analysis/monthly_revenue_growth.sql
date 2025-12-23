@@ -1,3 +1,6 @@
+-- Purpose:
+-- Calculate monthly revenue trends to evaluate business growth over time.
+
 SELECT
     DATE_TRUNC('month', order_purchase_timestamp) AS month,
     SUM(payment_value) AS revenue
