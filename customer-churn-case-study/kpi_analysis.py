@@ -1,3 +1,11 @@
+import pandas as pd
+
+"""
+Purpose:
+Calculate the overall customer churn rate for a subscription business.
+This KPI helps quantify the percentage of customers lost during the period.
+"""
+
 df = pd.read_csv("data/telco_churn.csv")
 
 churn_rate = (
@@ -7,4 +15,3 @@ churn_rate = (
 )
 
 print(f"Overall churn rate: {churn_rate:.2f}%")
-
