@@ -1,5 +1,11 @@
 import pandas as pd
 
+"""
+Purpose:
+Clean raw transactional sales data and create revenue-ready dataset
+for downstream analysis.
+"""
+
 df = pd.read_csv("data/raw/online_retail.csv")
 
 # Remove canceled orders
